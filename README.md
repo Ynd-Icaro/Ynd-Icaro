@@ -1,14 +1,54 @@
-## Hello, I'm Icaro de Oliveira.
-I'm a full-stack developer from South America, currently studying Software Engineering. <br>
-I have a passion for continually improving my skills and dedicating myself more to my work every day.
+# Icaro de Oliveira
 
-[![Ynd-Icaro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ynd-icaro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ynd-icaro/github-readme-stats#gh-dark-mode-only)
-[![Ynd-Icaro's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ynd-icaro&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ynd-icaro/github-readme-stats#gh-light-mode-only)
+**Software Engineer · Full Stack Developer**
 
-My main activity is in the area of ​​Full Stack Web development, where I apply agile and modern technologies 
-to create robust and scalable solutions. I specialize in Next.js for front-end development, 
-leveraging its server-side rendering and static generation capabilities. On the backend,
-I use Laravel to build efficient APIs and keep the code structure well organized, 
-and Node.js for real-time applications and fast integrations.
+Software Engineering student focused on building modern web applications, SaaS platforms and business systems.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynd-icaro&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
+I mainly work with **TypeScript, React, Next.js and Node.js**, building products across frontend, backend, databases and infrastructure.
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,java,spring" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,supabase,vercel,railway" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+### Focus
+
+* Full Stack Web Development
+* SaaS & ERP Systems
+* REST API Architecture
+* Database Design
+* Modern Frontend Architecture
+* UI/UX & Design Systems
+* Business Process Automation
+* AI-powered applications
+
+---
+
+### GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ynd-icaro\&show_icons=true\&theme=transparent\&hide_border=true)](https://github.com/ynd-icaro)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ynd-icaro\&layout=compact\&theme=transparent\&hide_border=true)](https://github.com/ynd-icaro)
+
+---
+
+**Building software, products and systems that solve real problems.**
